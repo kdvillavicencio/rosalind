@@ -17,5 +17,5 @@ def codonTranslate(codon):
     return proteinmap[codon]
 
 # Possible Codons given aminoAcid
-def codonProbabilty(amino_acid):
+def codonProbability(amino_acid):
     return float(codonCount[amino_acid])
