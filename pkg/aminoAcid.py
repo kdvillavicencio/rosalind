@@ -16,6 +16,14 @@ codonCount = proteinlist['amino_acid'].value_counts()
 def codonTranslate(codon):
     return proteinmap[codon]
 
+# String to Amino Acid chain
+def stringTranslate(string):
+    protein = ''
+    for x in range(int(len(string)/3)):
+        codon = string[3*x:(3*x)+3]
+        protein += codonTranslate(codon)
+    return protein
+
 # Possible Codons given aminoAcid
 def codonProbability(amino_acid):
     return float(codonCount[amino_acid])
