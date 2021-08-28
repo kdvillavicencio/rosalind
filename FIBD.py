@@ -1,3 +1,5 @@
+import pkg.aminoAcid as aa
+
 input = open('rosalind_fibd.txt').read().split(sep=' ')
 
 def rabbit(n, k, m):    
