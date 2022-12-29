@@ -34,3 +34,9 @@ Personal compilation of solutions for [Rosalind](https://rosalind.info/about/) b
 | SPLC | RNA Splicing | [Problem](https://rosalind.info/problems/SPLC) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/SPLC.py) | 	
 
 ## Auxiliary Functions
+- [Amino Acid functions](https://github.com/kdvillavicencio/rosalind/blob/master/pkg/aminoAcid.py)
+  - codon to amino acid conversion
+  - amino acid to possible codon equivalent
+  - protein mass calculation
+- [Unpacking FASTA format strings](https://github.com/kdvillavicencio/rosalind/blob/master/pkg/fasta.py)
+- [Complement/Reverse of DNA/RNA strings](https://github.com/kdvillavicencio/rosalind/blob/master/pkg/functions.py)
