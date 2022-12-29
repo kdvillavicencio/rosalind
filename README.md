@@ -2,7 +2,7 @@
 
 Personal compilation of solutions for [Rosalind](https://rosalind.info/about/) bioinformatics exercises. Solved using python.
 
-### About Rosalind
+### *About Rosalind*
 > *Learning bioinformatics usually requires solving computational problems of varying difficulty that are extracted from real challenges of molecular biology.
 > To make learning bioinformatics fun and easy, we have founded Rosalind, a platform for learning bioinformatics through problem solving.*
 >
@@ -12,9 +12,9 @@ Personal compilation of solutions for [Rosalind](https://rosalind.info/about/) b
 ## Solutions Index
 | ID | Title |  |  |
 | :--| :-- | :-- | :-- |
-| DNA | Counting DNA Nucleotides | [Problem](https://rosalind.info/problems/DNA) | - |
-| RNA | Transcribing DNA into RNA | [Problem](https://rosalind.info/problems/RNA) | - |
-| REVC | Complementing a Strand of DNA | [Problem](https://rosalind.info/problems/REVC) | - | 
+| DNA | Counting DNA Nucleotides | [Problem](https://rosalind.info/problems/DNA) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/DNA.py) |
+| RNA | Transcribing DNA into RNA | [Problem](https://rosalind.info/problems/RNA) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/RNA.py) |
+| REVC | Complementing a Strand of DNA | [Problem](https://rosalind.info/problems/REVC) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/REVC.py) | 
 | FIB | Rabbits and Recurrence Relations | [Problem](https://rosalind.info/problems/FIB) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/FIB.py) | 	
 | GC | Computing GC Content | [Problem](https://rosalind.info/problems/GC) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/GC.py) | 	
 | HAMM | Counting Point Mutations | [Problem](https://rosalind.info/problems/HAMM) | [Code](https://github.com/kdvillavicencio/rosalind/blob/master/.completed/HAMM.py) |
